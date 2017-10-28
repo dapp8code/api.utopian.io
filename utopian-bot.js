@@ -93,6 +93,9 @@ conn.once('open', function ()
                                     .then(contributions => {
                                       const bots = [
                                         'voter',
+                                        'minnowpondblue',
+                                        'minnowpondred',
+                                        'cleverbot',
                                         'booster',
                                         'sneaky-ninja',
                                         'boomerang',
